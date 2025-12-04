@@ -1,4 +1,4 @@
-# RateMyStore - Store Rating System
+# ShopStar - Store Rating System
 
 ![App Screenshot](./frontend/assets/demo.png)
 
@@ -35,7 +35,7 @@ Create a PostgreSQL database and update the `.env` file in `backend/`:
 DB_HOST=localhost
 DB_USER=your_username
 DB_PASSWORD=your_password
-DB_NAME=ratemystore
+DB_NAME=ShopStar
 DB_PORT=5432
 PORT=5000
 JWT_SECRET=your_secret_key
